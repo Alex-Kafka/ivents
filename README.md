@@ -69,9 +69,9 @@ python bot.py
 
 Полезные ссылки 🌐
 
-- [pyTelegramBotAPI]([url](https://pytba.readthedocs.io/en/latest/)) (Telebot) — Официальная документация
-- [Telegram Bot API]([url](https://core.telegram.org/bots/api))
-- [Как создать бота и получить токен]([url](https://core.telegram.org/bots/tutorial))
+- [pyTelegramBotAPI]([url](https://pytba.readthedocs.io/en/latest/)) (Telebot) — Официальная документация - https://pytba.readthedocs.io/en/latest/
+- [Telegram Bot API]([url](https://core.telegram.org/bots/api)) - https://core.telegram.org/bots/api
+- [Как создать бота и получить токен]([url](https://core.telegram.org/bots/tutorial)) - https://core.telegram.org/bots/tutorial
 
 ---
 
