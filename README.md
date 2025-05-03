@@ -69,14 +69,14 @@ python bot.py
 
 Полезные ссылки 🌐
 
-- pyTelegramBotAPI (Telebot) — Официальная документация
-- Telegram Bot API
-- Как создать бота и получить токен
+- [pyTelegramBotAPI]([url](https://pytba.readthedocs.io/en/latest/)) (Telebot) — Официальная документация
+- [Telegram Bot API]([url](https://core.telegram.org/bots/api))
+- [Как создать бота и получить токен]([url](https://core.telegram.org/bots/tutorial))
 
 ---
 
 Для вопросов и пожеланий ✉️
 
-Пиши админу в Telegram: @sellandprey
+Пиши админу в Telegram: @rootbeerrrr
 
 ---
