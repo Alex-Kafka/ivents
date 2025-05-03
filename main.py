@@ -90,3 +90,5 @@ def add_event(message):
 
 
 bot.polling(non_stop=True)
+
+#[eq
